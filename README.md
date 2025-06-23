@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Drew, and I'm a self-trained computer scientist interested in all things Node.js & Data Science! As a young kid I learned about computers by tinkering with MSDOS and infamous flood-ping attacks (White-hat of course). My uncle had worked for Microsoft in the early stages as a Senior Dev and was generous in teaching me C# and letting me rummage through his book collection.
+My name is Drew, and I'm a self-trained computer scientist interested in all things Node.js & Data Science! As a young kid I learned about computers by tinkering with MSDOS and infamous flood-ping attacks (White-hat of course). My uncle worked for Microsoft in the early stages as a Senior Dev and was generous in teaching me C# + letting me rummage through his book collection.
 
 
 
