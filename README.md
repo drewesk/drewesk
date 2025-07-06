@@ -1,11 +1,45 @@
-## Hello 👋
+## 👋 Hello, I'm Drew
 
-My name is Drew, and I'm a self-taught computer scientist interested in all things Node.js & Data Science! As a young kid I learned about computers by tinkering with MSDOS and infamous flood-pinging attacks (white-hat of course). My uncle had worked for Microsoft as a Senior Dev and was generous enough to teach me concepts of C#. Over time my thirst for knowledge grew and thus the lifelong exploration began.
+I'm a self-taught computer scientist passionate about **Node.js**, **data science**, and building systems that scale.
 
-My code employs TDD, OOP concepts, modular refactors, and other conventions of the industry.
+My journey began in childhood, tinkering with MS-DOS and experimenting with (white-hat!) ping flood attacks. I was lucky to have an uncle who worked as a Senior Developer at Microsoft — he introduced me to C# and fundamental programming concepts, and that set the course for a lifelong love of software engineering.
 
-![profile view count](https://komarev.com/ghpvc/?username=drewesk)
+---
 
+🧠 I focus on writing clean, maintainable code using:
+- **Test-Driven Development (TDD)**
+- **Object-Oriented Programming (OOP)**
+- **Modular and reusable architectures**
+- **Industry-standard conventions**
 
+---
 
+## 🚀 Tools & Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewesk&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drewesk&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Currently Exploring
+- Building full-stack apps with **TypeScript** and **React Native**
+- Leveraging **LLMs & AI APIs** for real-world applications
+- Real-time systems with **WebSockets** and **event-driven architectures**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=drewesk&color=blue&style=flat)
 
