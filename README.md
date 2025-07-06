@@ -5,8 +5,13 @@ I'm a self-taught computer scientist passionate about **Node.js**, **data scienc
 My journey began in childhood, tinkering with MS-DOS and experimenting with (white-hat!) ping flood attacks. I was lucky to have an uncle who worked as a Senior Developer at Microsoft — he introduced me to C# and fundamental programming concepts, and that set the course for a lifelong love of software engineering.
 
 ---
-🧠 I focus on writing clean, maintainable code using:  
-• **Test-Driven Development (TDD)** • **Object-Oriented Programming (OOP)** • **Modular and reusable architectures** • **Industry-standard conventions**
+
+🧠 I focus on writing clean, maintainable code using:
+- **Test-Driven Development (TDD)**
+- **Object-Oriented Programming (OOP)**
+- **Modular and reusable architectures**
+- **Industry-standard conventions**
+
 ---
 
 ## 🚀 Tools & Technologies
@@ -19,12 +24,6 @@ My journey began in childhood, tinkering with MS-DOS and experimenting with (whi
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewesk&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drewesk&layout=compact&theme=tokyonight)
 
 ---
