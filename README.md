@@ -24,6 +24,7 @@ My journey began in childhood, tinkering with MS-DOS and experimenting with (whi
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drewesk&layout=compact&theme=tokyonight)
 
 ---
