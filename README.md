@@ -6,7 +6,7 @@ My journey began in childhood, tinkering with MS-DOS and experimenting with (whi
 
 ---
 
-🧠 I focus on writing clean, maintainable code using:
+📈 I focus on writing clean, maintainable code using:
 - **Test-Driven Development (TDD)**
 - **Object-Oriented Programming (OOP)**
 - **Modular and reusable architectures**
