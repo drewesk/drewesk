@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Drew
 
-I'm a self-taught computer scientist passionate about **Node.js**, **data science**, and building systems that scale.
+I'm a self-taught coder and ethical hacker passionate about **Node.js**, **data science**, and building systems that scale.
 
 My journey began in childhood, tinkering with MS-DOS and experimenting with (white-hat!) ping flood attacks. I was lucky to have an uncle who worked as a Senior Developer at Microsoft — he introduced me to C# and fundamental programming concepts, and that set the course for a lifelong love of software engineering.
 
