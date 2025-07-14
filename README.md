@@ -23,9 +23,8 @@ My journey began in childhood, tinkering with MS-DOS and experimenting with (whi
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drewesk&layout=compact&theme=tokyonight)
+![Mocha](https://img.shields.io/badge/tested%20with-mocha-brown?logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/asserted%20with-chai-red?logo=chai&logoColor=white)
 
 ---
 
