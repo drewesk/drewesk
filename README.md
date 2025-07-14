@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Drew
+## 👋 Hello, I'm Drew ![Profile Views](https://komarev.com/ghpvc/?username=drewesk&color=blue&style=flat)
 
 I'm a self-taught coder and ethical hacker passionate about **Node.js**, **data science**, and building systems that scale.
 
@@ -12,8 +12,6 @@ My journey began in childhood, tinkering with MS-DOS and experimenting with (whi
 - **Modular and reusable architectures**
 - **Industry-standard conventions**
 
----
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -24,7 +22,7 @@ My journey began in childhood, tinkering with MS-DOS and experimenting with (whi
 ![Mocha](https://img.shields.io/badge/tested%20with-mocha-brown?logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/asserted%20with-chai-red?logo=chai&logoColor=white)
 
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=drewesk&color=blue&style=flat)
+
+
 
