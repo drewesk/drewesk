@@ -2,13 +2,13 @@
 
 I'm a self-taught coder and ethical hacker passionate about **Node.js**, **data science**, and building systems that scale.
 
-My journey began in childhood, tinkering with MS-DOS and experimenting with (white-hat!) ping flood attacks. I was lucky to have an uncle who worked as a Senior Developer at Microsoft — he introduced me to C# and fundamental programming concepts, and that set the course for a lifelong love of software engineering.
+My journey began in childhood, tinkering with MS-DOS and experimenting with (white-hat!) ping flood attacks. I was lucky to have an uncle who worked as a Senior Developer at Microsoft — he introduced me to C# and fundamental programming concepts, and that set the course for a lifelong love of building Tech!
 
 ---
 
 📈 I focus on writing clean, maintainable code using:
+- **Agentic AI with Multithreaded Scalability**
 - **Test-Driven Development (TDD)**
-- **Object-Oriented Programming (OOP)**
 - **Modular and reusable architectures**
 - **Industry-standard conventions**
 
