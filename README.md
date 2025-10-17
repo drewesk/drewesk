@@ -2,7 +2,7 @@
 
 I'm a self-taught developer and ethical-hacker passionate about next-gen AI solutions, **data science**, and building systems that scale.
 
-My journey began in childhood, tinkering with MS-DOS and experimenting with (white-hat) flood-ping attacks. I was lucky to have an uncle who worked as a Senior Developer at Microsoft — he introduced me to C# and fundamental programming concepts, and that set the course for a lifelong love of building Tech.
+My journey began in childhood, tinkering with MS-DOS and experimenting with (white-hat) flood-ping attacks. I was lucky to have an uncle who worked as a Senior Dev at Microsoft — he introduced me to C#, Visual Basic, and fundamental programming concepts, and that set the course for a lifelong love of building Tech.
 
 ---
 
