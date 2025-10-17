@@ -2,16 +2,16 @@
 
 I'm a self-taught developer and ethical-hacker passionate about next-gen AI solutions, **data science**, and building systems that scale.
 
-My journey began in childhood, tinkering with MS-DOS and experimenting with (white-hat) flood-ping attacks. I was lucky to have an uncle who worked as a Senior Dev at Microsoft — he introduced me to C#, Visual Basic, and fundamental programming concepts, and that set the course for a lifelong love of building Tech.
+My journey began in childhood, tinkering with MS-DOS and experimenting with (white-hat) flood-ping attacks. I was lucky to have an uncle who worked as a Senior Dev at Microsoft — he introduced me to C#, Visual Basic, and fundamental programming concepts. This intro set the course for a lifelong love of breaking and re-building Tech.
 
 ---
 
 📈 I focus on writing clean, maintainable code using:
-- **Agentic AI with Multithreaded Scalability**
+- **Scalable Agentic AI with Concurrent Processing**
 - **Test-Driven Development (TDD)**
 - **Modular and reusable architectures**
 - **Industry-standard conventions**
-
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
